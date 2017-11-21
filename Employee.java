@@ -19,7 +19,7 @@ public class Employee {
 		this.firstName = firstName;
 	}
 	
-	public int getFirstName() {
+	public String getFirstName() {
 		return firstName;
 	}
 }
